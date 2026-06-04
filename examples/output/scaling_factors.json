@@ -1,0 +1,12 @@
+{
+  "DBE_01": {
+    "scale_x": 1.17,
+    "scale_y": 1.18,
+    "avg_scale": 1.175
+  },
+  "MCE_01": {
+    "scale_x": 1.45,
+    "scale_y": 1.46,
+    "avg_scale": 1.455
+  }
+}

@@ -1,0 +1,6 @@
+gm_name,event,PGA_x,PGA_y,Sa_10_x,Sa_10_y
+ChiChi_TCU,chi-chi-1999,0.183,0.176,0.402,0.388
+ElCentro_1940,imperial-valley-1940,0.313,0.298,0.515,0.502
+Kobe_KJMA,kobe-1995,0.345,0.338,0.602,0.591
+Northridge_SYL,northridge-1994,0.604,0.578,0.890,0.870
+Gyeongju_2016,gyeongju-2016,0.098,0.105,0.221,0.235
