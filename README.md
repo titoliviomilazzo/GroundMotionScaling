@@ -3,12 +3,25 @@
 > 내진해석용 **지진파 스케일링 자동화** 도구 — 설계 응답스펙트럼 생성, 스케일팩터 계산, Perform3D 지진파 변환·정규화까지 한 번에.
 
 <p>
+  <a href="https://colab.research.google.com/github/titoliviomilazzo/GroundMotionScaling/blob/main/notebooks/quickstart.ipynb"><img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg"></a>
   <img alt="Python" src="https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white">
   <img alt="License" src="https://img.shields.io/badge/License-MIT-green">
   <img alt="Purpose" src="https://img.shields.io/badge/용도-교육용%20%2F%20학습용-orange">
 </p>
 
 ![설계 응답스펙트럼](assets/design_spectrum.png)
+
+---
+
+## ▶️ 가장 빠른 시작 — Google Colab (설치 불필요)
+
+학생이라면 **이 방법을 추천합니다.** 내려받기·설치 없이 브라우저에서 바로 실행됩니다.
+
+1. 위의 **[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/titoliviomilazzo/GroundMotionScaling/blob/main/notebooks/quickstart.ipynb)** 배지를 클릭
+2. 노트북이 열리면 위에서부터 각 셀을 `Shift + Enter` 로 실행
+3. 스케일팩터·보고서·그림이 차례로 나옵니다
+
+> 코드를 **고쳐서 내 것으로 보관/제출**하려면 오른쪽 위 **Fork** 후, Colab의 *파일 → GitHub에 사본 저장* 을 쓰면 됩니다. (자세한 안내는 노트북 마지막 셀)
 
 ---
 
